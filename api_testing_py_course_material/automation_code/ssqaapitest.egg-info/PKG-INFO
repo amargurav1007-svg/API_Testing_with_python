@@ -1,0 +1,18 @@
+Metadata-Version: 2.2
+Name: ssqaapitest
+Version: 1.0
+Summary: Practice API testing
+Home-page: https://supersqa.com
+Author: Admas Kinfu
+Author-email: admas@supersqa.com
+Requires-Dist: pytest==8.3.4
+Requires-Dist: pytest-html==4.1.1
+Requires-Dist: requests==2.32.3
+Requires-Dist: requests-oauthlib==2.0.0
+Requires-Dist: PyMySQL==1.1.1
+Requires-Dist: woocommerce==3.0.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary
